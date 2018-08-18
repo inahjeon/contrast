@@ -3,7 +3,7 @@ author: "Inah Jeon"
 description: "Really cool blog about ... something"
 more: "read more »"
 url: "https://inahjeon.github.io/"
-baseurl: "/contrast"
+baseurl: "/"
 paginate: 2
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
