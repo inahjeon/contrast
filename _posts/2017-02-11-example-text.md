@@ -1,6 +1,6 @@
 ---
-title:  "Example Text"
-date:   2017-02-17 23:37:00
+title:  "Test with Cloud IDE"
+date:   2018-08-20 04:33:00
 categories: text
 ---
 
