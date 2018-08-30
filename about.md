@@ -4,17 +4,17 @@ title: "About"
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+[Rainist](https://rainist.com)에서 `Data Scientist`로 일하고 있는 전인아입니다.
 
-### My life
+데이터마이닝 연구실에서 빅데이터 분석 연구를 하다가, 실제 세상의 데이터를 다루고 분석해 보고싶어 레이니스트에 오게 되었습니다.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[뱅크샐러드](https://banksalad.com) 서비스를 성장시키기 위해서 필요한 데이터 분석, 머신러닝 서비스 개발을 담당하고 있습니다.
+지금보다 데이터에서 더 많은 가치를 만들어 낼 수 있기를 꿈꾸고 있습니다.
 
- - Dictumst
- - Vestibulum
- - Rhoncus
- - Pellentesque
- 
-Maecenas accumsan lacus vel facilisis volutpat est velit. Arcu bibendum at varius vel. Aliquam etiam erat velit scelerisque in dictum non consectetur a. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. 
-
-Ultrices dui sapien eget mi proin sed. Dignissim sodales ut eu sem.
+### 근황
+ - 블로그 시작했습니다.
+ - 요즘 텍스트마이닝에 관심이 많이 생겨 공부중입니다.
+ - 맛(+술)집 리스트를 모으고 있습니다.
+ - 데이터 엔지니어링 재밌습니다.
+ - 노트북 대신 아이패드로 일하기에 도전하고 있습니다.
+ - 오픈소스 개발에 관심이 생겼습니다.
